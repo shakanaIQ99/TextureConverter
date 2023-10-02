@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <DirectXTex.h>
 
-size_t main(size_t argc,char* argv[])
+int main(size_t argc,char* argv[])
 {
 	for (size_t i = 0; i < argc; i++)
 	{
